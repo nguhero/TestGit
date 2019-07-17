@@ -8,7 +8,11 @@ public static void main(String[] args) {
 	System.out.println("Xin chao ban Pham Van Ngu lan 4");
 	System.out.println("Xin chao ban Pham Van Ngu lan 5");
 	System.out.println("Xin chao ban Pham Van Ngu lan 6");
+
 	System.out.println("Xin chao ban Pham Van Ngu lan 7");
 	
+
+	System.out.println("Xin chao ban Pham Van Ngu lan 8");
+
 }
 }
